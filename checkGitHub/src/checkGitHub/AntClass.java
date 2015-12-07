@@ -9,6 +9,7 @@ public class AntClass {
 	public static void simpleFunc(){
 		
 		System.out.println("Welcome to Build.xml ANT world");
+		
 	}
 
 }
